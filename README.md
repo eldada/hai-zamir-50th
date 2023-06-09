@@ -2,7 +2,6 @@
 This repository is to celebrate Hai Zamir's 50th birthday!
 
 ```text
-
  _   _         _      ______                   _            _           _____  _____   _ 
 | | | |       (_)    |___  /                  (_)          (_)         |  ___||  _  | | |
 | |_| |  __ _  _        / /   __ _  _ __ ___   _  _ __      _  ___     |___ \ | |/' | | |
